@@ -1,7 +1,7 @@
 {
     "name": "Sound Level in decibels (dB)",
     "version": "0.1.6",
-    "description": "Sound level in decibels (dB)",
+    "description": "Block for measuring the ambient sound level",
     "license": "MIT",
     "dependencies": {
         "core": "*",
